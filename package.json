@@ -1,0 +1,22 @@
+{
+  "name": "webclass",
+  "version": "1.0.0",
+  "description": "this is class work",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aksharaanild/Webclass.git"
+  },
+  "author": "akshara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aksharaanild/Webclass/issues"
+  },
+  "homepage": "https://github.com/aksharaanild/Webclass#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
